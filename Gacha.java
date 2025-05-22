@@ -1,5 +1,6 @@
-import java.util.ArrayList;
 //Daphne
+import java.util.ArrayList;
+
 public class Gacha {
     //arraylist with all the possible rolls
     //method that returns the indexes of array (just a method for ourselves to keep track)

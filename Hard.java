@@ -1,4 +1,5 @@
-public class Hard extends Tasks {
+//Daphne
+public class Hard extends Task {
     //same for every other subclass
     //create a variable for the set rewards
     //private variables for the time, name, short description
